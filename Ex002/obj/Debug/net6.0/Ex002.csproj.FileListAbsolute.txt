@@ -1,0 +1,15 @@
+C:\Users\tamar\Desktop\repo\Example\Ex002\bin\Debug\net6.0\Ex002.exe
+C:\Users\tamar\Desktop\repo\Example\Ex002\bin\Debug\net6.0\Ex002.deps.json
+C:\Users\tamar\Desktop\repo\Example\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+C:\Users\tamar\Desktop\repo\Example\Ex002\bin\Debug\net6.0\Ex002.dll
+C:\Users\tamar\Desktop\repo\Example\Ex002\bin\Debug\net6.0\Ex002.pdb
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.dll
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.pdb
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+C:\Users\tamar\Desktop\repo\Example\Ex002\obj\Debug\net6.0\ref\Ex002.dll
